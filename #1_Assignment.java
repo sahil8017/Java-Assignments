@@ -4,7 +4,7 @@ W.A.P which prints the following information about at least 5 persons:
     
     Eg. Parul parul@csc p03161 25764728
         Sonia sonia@csc p03160 25764730
-    
+
     Each entry should be on a seperate line.     
 */
 class Information{
