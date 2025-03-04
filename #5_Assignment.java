@@ -1,3 +1,10 @@
+/*
+Write a Java program using reflection to:
+
+Dynamically create objects of two inner classes (student and subject).
+Modify their fields using reflection.
+Invoke their display() methods to print updated values.
+*/
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;
 
