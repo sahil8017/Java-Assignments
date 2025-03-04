@@ -1,3 +1,11 @@
+/*
+Write a Java program using reflection to:
+
+Dynamically create an object of the inner class Student.
+Modify its fields (name and rollno).
+Invoke the display() method to print updated values.
+*/    
+    
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;
 
