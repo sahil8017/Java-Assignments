@@ -1,3 +1,10 @@
+/*
+Write a Java program using reflection to:
+
+Access and modify a private field.
+Invoke a constructor dynamically.
+Print the field value before and after modification.
+*/
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;
 
